@@ -206,10 +206,21 @@ begin
 end;
 
 procedure TFrmPrincipal.btnEnviarClick(Sender: TObject);
+var
+  contador: Integer;
+  texto1: String;
 begin
- AddMessage(1212, edtTexto.Text, FormatDateTime('dd/mm/yy hh:nn', date), true);
- lvChat.ScrollTo(lvChat.Items.Count - 1);
- edtTexto.Text := '';
+ if edtTexto.Text.Length < 25 then
+ begin
+  AddMessage(1212, edtTexto.Text + '    ', FormatDateTime('dd/mm/yy hh:nn', date), true);
+  lvChat.ScrollTo(lvChat.Items.Count - 1);
+  edtTexto.Text := '';
+ end else
+ begin
+   AddMessage(1212, edtTexto.Text, FormatDateTime('dd/mm/yy hh:nn', date), true);
+   lvChat.ScrollTo(lvChat.Items.Count - 1);
+   edtTexto.Text := '';
+ end;
 end;
 
 procedure TFrmPrincipal.FormShow(Sender: TObject);

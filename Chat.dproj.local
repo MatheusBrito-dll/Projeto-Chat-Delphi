@@ -4,9 +4,9 @@
     <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/09/12 18:11:05.000.650,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/09/12 18:11:33.000.237,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\99Coders\Posts\320 - Criando o layout para uma aplicação de Chat --------\Fontes\UnitPrincipal.pas</Transaction>
-    <Transaction>2022/09/12 18:11:33.000.237,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\99Coders\Posts\320 - Criando o layout para uma aplicação de Chat --------\Fontes\UnitPrincipal.fmx</Transaction>
-    <Transaction>2022/09/12 18:11:40.000.136,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\99Coders\Posts\320 - Criando o layout para uma aplicação de Chat --------\Fontes\Chat.dproj</Transaction>
+    <Transaction>2022/09/12 18:11:33.000.237,D:\99Coders\Posts\320 - Criando o layout para uma aplicação de Chat --------\Fontes\UnitPrincipal.fmx=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/09/12 18:11:33.000.237,D:\99Coders\Posts\320 - Criando o layout para uma aplicação de Chat --------\Fontes\UnitPrincipal.pas=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/12 18:11:40.000.136,D:\99Coders\Posts\320 - Criando o layout para uma aplicação de Chat --------\Fontes\Chat.dproj=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<PMacMini iOSSimulator="iPhone5"/>
